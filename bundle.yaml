@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "shivansh88-dev-controller"
+description: "CloudBees CI configuration bundle for the shivansh88 dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/shivansh88/dev-controller"
+parent: "base"
